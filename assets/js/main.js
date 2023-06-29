@@ -275,8 +275,8 @@ $(function() {
 				//your configuration goes here
 				easing: 'easeOut',
 				delay: 3000,
-				barColor: '#279e64',
-				trackColor: '#ffc600',
+				barColor: '#000',
+				trackColor: '#BB232B',
 				scaleColor: false,
 				lineWidth: 20,
 				size: 110,
