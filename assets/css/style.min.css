@@ -2158,6 +2158,7 @@ width: 160px;
   background-color: #BB232B;
   text-align: center;
   padding: 80px 55px;
+  height: 650px;
   position: relative;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
@@ -2231,7 +2232,7 @@ width: 160px;
   margin-bottom: 20px;
 }
 .single-feature-box .icon i {
-  font-size: 115px;
+  font-size: 90px;
 }
 .single-feature-box .feature-count {
   font-size: 80px;
@@ -2772,6 +2773,11 @@ width: 160px;
 .single-service .service-content {
   padding: 30px 90px 30px 30px;
   background-color: #fff;
+  height: 400px;
+}
+.single-service .service-content span{
+  color: #000;
+  font-weight: bold;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .single-service .service-content {
