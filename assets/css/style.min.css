@@ -1729,6 +1729,11 @@ width: 160px;
   background-color: #BB232B;
     border-color: #BB232B;
 }
+.btn-primary:hover{
+  background-color: #BB232B;
+    border-color: #BB232B;
+}
+
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   background-color: #BB232B;
 }
