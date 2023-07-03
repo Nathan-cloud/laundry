@@ -1725,6 +1725,13 @@ width: 160px;
     height: 600px;
   }
 }
+.btn-primary{
+  background-color: #BB232B;
+    border-color: #BB232B;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  background-color: #BB232B;
+}
 .hero-section .single-hero-slide::before {
   position: absolute;
   left: 0;
